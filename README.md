@@ -13,25 +13,10 @@
 
 
 
-## 🚀 **Smart AI Resume Analyzer – Version Comparison**  
-
-| Version | Status | Features | Try Now |
-|---------|--------|----------|---------|
-| **🔹 Version 1.0** <br> *Basic Resume Analyzer* 🏁 | ✅ **Live & Available** | 🔹 **Keyword Extraction** – Identifies key terms in resumes. <br> 🔹 **Structural Analysis** – Evaluates resume formatting & sections. <br> 🔹 **ATS Compatibility Check** – Basic compliance assessment. <br> 🔹 **Resume Insights** – Provides fundamental feedback. | [![Try Version 1.0](https://img.shields.io/badge/Try%20Now-ResumeMind-blue?style=for-the-badge)](https://resumind.streamlit.app/) |
-| **🔹 Version 2.0** <br> *AI-Powered Resume Analyzer* 🤖✨ | 🚧 **Testing Phase** <br/>(**Analysis Only through Google Gemini**)  | 🔹 **Google Gemini AI Integration** – Advanced AI-powered resume analysis. <br> 🔹 **Enhanced ATS Score** – AI-driven recruiter optimization. <br> 🔹 **Smart Keyword Optimization** – AI-powered gap analysis. <br> 🔹 **Role-Specific Recommendations** – AI insights tailored to job descriptions. <br> 🔹 **PDF Report Generation** – Download detailed AI assessments. <br> 🔹 **LinkedIn Job Scraper** – Fetch real-time job listings. | [![Try Version 2.0](https://img.shields.io/badge/Try%20Now-SkillMatch%20AI-purple?style=for-the-badge)](https://skillmatch-ai.streamlit.app/) |
-
-## 📢 **Give Your Feedback on Version 2.0!**  
-
-🚀 We’re actively improving **Smart AI Resume Analyzer – Version 2.0**, and your feedback is crucial!  
 
 💬 **Join the discussion and share your thoughts, issues, and suggestions here:**  
 🔗 **[🗨️ Feedback & Discussion – Smart AI Resume Analyzer (Version 2.0)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer/discussions/3)**  
 
-🛠️ **How can you help?**  
-✅ Try out **Version 2.0** [here](https://skillmatch-ai.streamlit.app/)  
-✅ Report any **bugs** or unexpected results  
-✅ Suggest **new features** or **improvements**  
-✅ Let us know how the **AI insights and ATS score** worked for you  
 
 💡 **Your feedback helps me build a better tool for job seekers worldwide!**  
 
