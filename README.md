@@ -3,15 +3,7 @@
 
 #  **🏝️ Smart AI Resume Analyzer 🏝️**  
 <!--<img src="https://github.com/user-attachments/assets/8a37c282-efa0-45af-8f37-8e564a62ecd2" width="35">-->
-**Your Intelligent Career Partner**  
-<img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> Smart AI Resume Analyzer is your all-in-one tool to analyze, optimize, and craft resumes that stand out, helping you land your dream job.  
-</div>
 
-
-
-
-💬 **Join the discussion and share your thoughts, issues, and suggestions here:**  
-🔗 **[🗨️ Feedback & Discussion – Smart AI Resume Analyzer (Version 2.0)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer/discussions/3)**  
 
 
 💡 **Your feedback helps me build a better tool for job seekers worldwide!**  
